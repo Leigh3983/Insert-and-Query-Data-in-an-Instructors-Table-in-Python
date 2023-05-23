@@ -1,2 +1,2 @@
-# Inserting-and-Querying-Data-into-an-Instructors-Table-in-Python
+# Insert-and-Query-Data-in-an-Instructors-Table-in-Python
 The table INSTRUCTOR is created. Then, data is inserted into the table, which contains information on each instructor including their full name, location (city and state), and respective ID. The table is updated, as Rav’s city is changed from Toronto to Moosetown. Finally, the contents of the table are retrieved and set into a pandas dataframe. 
